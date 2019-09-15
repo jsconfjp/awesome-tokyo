@@ -25,7 +25,7 @@ We prepared a map this year that contains a lot of layers. **Hotels**, Restauran
 
 Japan-Guide did an awesome job explaining the transport system in Tokyo: [→ more here](https://www.japan-guide.com/e/e2017.html)
 
-### 🌤 Weather & 🧥 Clothes
+## 🌤 Weather & 🧥 Clothes
 
 Average November/December weather in Tokyo<br/>
 **High** - 13 C, 55.4 F<br/>
