@@ -9,11 +9,31 @@
 
 This year our event will be in [3331 - Arts Chiyoda](https://goo.gl/maps/RMeTkrxaAyjkZhRn7).
 
-## Surroundings
+## ☉ Surroundings
 
-We prepared a map this year that contains a lot of layers. Hotels, Restaurants, Activities, you should find all you might need around the area. So please have a closer look: [→ 🗺](https://drive.google.com/open?id=1EHjtxICBFoB_QKSJC9fPTEi-AP2wm_Hl&usp=sharing)
+We prepared a map this year that contains a lot of layers. **Hotels**, Restaurants, Activities, and more that might interest you in the area. Please have a closer look: [→ 🗺](https://drive.google.com/open?id=1EHjtxICBFoB_QKSJC9fPTEi-AP2wm_Hl&usp=sharing)
 
-## Mobile Wifi/SIM
+## 🔆 Important Tips
+
++ **Book Ahead!** - Booking hotels in Tokyo at the last minute can be challenging. Plan early to ensure you have a place to stay.
++ **Have a Visa!** - By japanese law, you need to be able to identify yourself at all times with a passport and you need to have a valid visa. When in please, carry your passport on you safely. More info about your visa: http://www.mofa.go.jp/j_info/visit/visa/
++ **Have Cash!** - Foreign credit cards are problematic at many ATM's and sometimes at shops. _(ATMs at "7/11" convenience stores usually work)_ Having backup-cash with makes things easier.
++ **No tipping!** - There is no tipping in any situation in Japan _(cabs, restaurants, personal care, etc.)_
++ **Power adapters!** - Japan has 100V! plugs that resembler North american plugs. ([more info](https://www.japan-guide.com/e/e2225.html)).
+
+## 🚕 🚅 🚲 Transport
+
+Japan-Guide did an awesome job explaining the transport system in Tokyo: [→ more here](https://www.japan-guide.com/e/e2017.html)
+
+### 🌤 Weather & 🧥 Clothes
+
+Average November/December weather in Tokyo<br/>
+**High** - 13 C, 55.4 F<br/>
+**Low** - 4 C, 39.2 F
+
+November and December are pretty cool, but usually not that rainy. Please bring warm clothes. If you need an umbrella you can buy one at most convenience stores for 500-600 yen. Some traditional hotels _(Ryokan)_ are for authenticity purpose not well insulated and it can be quite chill in the rooms. 
+
+## 📱 Mobile Wifi/SIM 
 
 Japan has a strong mobile internet network, and for tourist use it is possible to get both tourist SIM cards as well as rent mobile Wifi boxes. You can either pick up at the airport and/or preorder it to be sent to your Hotel.
 
@@ -21,7 +41,7 @@ Japan has a strong mobile internet network, and for tourist use it is possible t
 + [eConnect Japan](https://www.econnectjapan.com/) offers SIM & Wifi online ordering.
 + There are some offerings [on Amazon.jp](https://www.amazon.co.jp/s/gp/search/ref=sr_nr_p_n_feature_twenty_b_1?fst=as%3Aoff&rh=n%3A5470982051%2Ck%3ATravel+SIM%2Cp_n_feature_twenty_browse-bin%3A5470990051&keywords=Travel+SIM&ie=UTF8&qid=1541830640&rnid=5470989051) which works usually smooth in english - if you want to compare prices. They can be sent to your Hotel, delivers usually within two days.
 
-## Wifi
+## 📶 Wifi 
 
 Wifi can be available occassionally for free in Japan.
 
@@ -30,17 +50,17 @@ Wifi can be available occassionally for free in Japan.
 + Family-mart offers 3 x 20minutes per Day free Wifi 
 + McDonalds allows Wifi limited to 1h per session. Reconnect required, Reconnect doesn't work immediately.
 
-## Communities
+## 👥 Communities
 + Nodeschool Tokyo: https://nodeschool.io/tokyo/
 + Node.js Japan User Group: https://nodejs.jp/
 
-## Useful links
+## ℹ️ Useful links
 
 + [japan-guide.com](https://www.japan-guide.com/) - Everything about modern and traditional Japan.
 + [Japan National Tourism Organization](https://www.jnto.go.jp/eng/) - The official Japan tourism organization website.
 + [Open Source Tokyo](https://github.com/opensourcecities/tokyo) - A directory of companies, people, and projects that are Open Source and from Tokyo.
 
-## To event organizers :raised_hands:
+## :raised_hands: To event organizers
 
 The purpose of curating something in Tokyo is to help people find great places to eat and hack because we could not find these things easily when we attended foreign conferences before. We would like to help a lot of people have safe and fun travel throughout the curated list. On the other hand, the list is not enough because we cannot customize it for each conference, but we think you may not want to create the list from scratch, so we prepare following steps to do it. Have a fun!
 
@@ -50,7 +70,7 @@ The purpose of curating something in Tokyo is to help people find great places t
    + Add venues address
    + List hotels near venues
 
-## License
+## 📃 License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
