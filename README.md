@@ -16,7 +16,7 @@ We prepared a map this year that contains a lot of layers. **Hotels**, Restauran
 ## 🔆 Important Tips
 
 + **Book Ahead!** - Booking hotels in Tokyo at the last minute can be challenging. Plan early to ensure you have a place to stay.
-+ **Have a Visa!** - By japanese law, you need to be able to identify yourself at all times with a passport and you need to have a valid visa. When in please, carry your passport on you safely. More info about your visa: http://www.mofa.go.jp/j_info/visit/visa/
++ **Have a Visa!** - By japanese law, you need to be able to identify yourself at all times with a passport and you need to have a valid visa. When in please, carry your passport on you safely. Many countries have a [visa excemption](https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html) which means you will receive your visa upon embarkation in the airport. In more complex cases, please contact us after looking at: http://www.mofa.go.jp/j_info/visit/visa/
 + **Have Cash!** - Foreign credit cards are problematic at many ATM's and sometimes at shops. _(ATMs at "7/11" convenience stores usually work)_ Having backup-cash with makes things easier.
 + **No tipping!** - There is no tipping in any situation in Japan _(cabs, restaurants, personal care, etc.)_
 + **Power adapters!** - Japan has 100V! plugs that resembler North american plugs. ([more info](https://www.japan-guide.com/e/e2225.html)).
