@@ -20,6 +20,7 @@ We prepared a map this year that contains a lot of layers. **Hotels**, Restauran
 + **Have Cash!** - Foreign credit cards are problematic at many ATM's and sometimes at shops. _(ATMs at "7/11" convenience stores usually work)_ Having backup-cash with makes things easier.
 + **No tipping!** - There is no tipping in any situation in Japan _(cabs, restaurants, personal care, etc.)_
 + **Power adapters!** - Japan has 100V! plugs that resembler North american plugs. ([more info](https://www.japan-guide.com/e/e2225.html)).
++ _To Consider:_ **an emergency document** - As long as everything is fine, Japan is wonderful but how to be prepared in case an issue arises? Here is a template by Martin with several notes: [🚨 Template](https://docs.google.com/document/d/15F9Z7fF1wOM3lGxAm7z9w-oqVemRnjzXODo3fv0KobU/edit#heading=h.pbkypg6742)
 
 ## 🚕 🚅 🚲 Transport
 
